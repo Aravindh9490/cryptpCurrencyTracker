@@ -1,0 +1,24 @@
+.col {
+  color: #ffffff;
+}
+.logo {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
+.titleItem {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  color: aliceblue;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+}
+.m {
+  margin-right: 20px;
+  padding: 10px;
+}

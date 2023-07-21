@@ -1,0 +1,21 @@
+.col {
+  color: aqua;
+  text-align: center;
+}
+.coinsBox {
+  border: 4px solid aqua;
+  border-radius: 8px;
+  width: 90%;
+}
+.title {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #092e33;
+  color: aliceblue;
+}
+.m {
+  margin-right: 70px;
+}

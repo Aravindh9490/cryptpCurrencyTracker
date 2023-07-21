@@ -1,0 +1,10 @@
+.mainBg {
+  background-color: black;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
